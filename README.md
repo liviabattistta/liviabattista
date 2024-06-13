@@ -8,4 +8,4 @@ eu me chamo Livia!
 - Tenho 16 Anos ⭐
 - Uso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - Estou me desenvolvendo na linguagem JavaScript
-  isso é só o começo sobre mim.
+- e isso é só o começo sobre mim.
